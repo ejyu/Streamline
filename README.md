@@ -1,7 +1,9 @@
-Name: E.J. Yu
-Date: April 27, 2019
+# Streamline
 
-# Program Description
+- **Name:** E.J. Yu
+- **Date:** April 27, 2019
+
+## Program Description
 
 Streamline is a game where you navigate a piece around a board to get
 to a goal. Sometimes there will be obstacles in your path, so you have
@@ -33,7 +35,7 @@ If you get frustrated and need to rage quit, you can use the Q key to
 quit the Streamline game, or the current level if you have a bunch
 of levels queued.
 
-# How I Tested My Game
+## How I Tested My Game
 
     (1) During my method implementations, I would create a set of testers
         in a main() method that I'd temporarily put in the class, and run
@@ -60,7 +62,7 @@ of levels queued.
         movements, per se. That's why visual testing shouldn't be your
         only method of testing your program.
 
-# VIM / Linux Questions
+## VIM / Linux Questions
 
 1. VIM:
 
